@@ -1,0 +1,65 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# ========================
+# Virtual Environment
+# ========================
+venv/
+env/
+.venv/
+
+# ========================
+# Environment Variables
+# ========================
+.env
+
+# ========================
+# Logs
+# ========================
+*.log
+
+# ========================
+# OS Files
+# ========================
+.DS_Store
+Thumbs.db
+
+# ========================
+# VS Code / IDE
+# ========================
+.vscode/
+.idea/
+
+# ========================
+# Jupyter
+# ========================
+.ipynb_checkpoints/
+
+# ========================
+# ML Files (OPTIONAL)
+# ========================
+ml/data/raw/
+ml/data/processed/*.csv
+
+# ========================
+# Model Files (IMPORTANT DECISION)
+# ========================
+# If model is large → ignore
+# If small → commit it
+
+# Uncomment if you want to ignore:
+# ml/models/
+
+# ========================
+# Build / Cache
+# ========================
+.cache/
+dist/
+build/

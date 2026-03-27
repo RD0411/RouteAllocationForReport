@@ -1,0 +1,4 @@
+SUPABASE_URL = "https://yzspgiyegrbmrqsxkliz.supabase.co"
+SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inl6c3BnaXllZ3JibXJxc3hrbGl6Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzQ1MzAxMjksImV4cCI6MjA5MDEwNjEyOX0.gWVTGVfzEW7MRzrSI9FFIJ8Nl_fkM9WQO2vwgTB_xP0"
+DATASET_PATH = "ml/data/processed/dataset.csv"
+MODEL_PATH = "ml/models/route_model.txt"
